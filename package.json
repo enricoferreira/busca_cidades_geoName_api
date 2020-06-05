@@ -1,0 +1,24 @@
+{
+  "name": "startup_busca_cidade",
+  "version": "1.0.0",
+  "description": "Busca detalhada de cidades utilizando api GeoNames",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricoferreira/busca_cidades_geoName_api.git"
+  },
+  "author": "Enrico Augusto Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enricoferreira/busca_cidades_geoName_api/issues"
+  },
+  "homepage": "https://github.com/enricoferreira/busca_cidades_geoName_api#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "http-server": "^0.12.3"
+  }
+}
